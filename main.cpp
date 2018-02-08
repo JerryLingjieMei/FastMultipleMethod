@@ -1,6 +1,6 @@
 #include <iostream>
 #include <random>
-#include "FFM.h"
+#include "FMM.h"
 
 using namespace std;
 
