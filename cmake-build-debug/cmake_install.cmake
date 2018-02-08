@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jerrymei/Academics/18.330 Numerical Analysis/Final Project
+# Install script for directory: /Users/jerrymei/Academics/Fall2017/18.330IntroductionToNumericalAnalysis/FastMultipleMethod
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/jerrymei/Academics/18.330 Numerical Analysis/Final Project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/jerrymei/Academics/Fall2017/18.330IntroductionToNumericalAnalysis/FastMultipleMethod/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

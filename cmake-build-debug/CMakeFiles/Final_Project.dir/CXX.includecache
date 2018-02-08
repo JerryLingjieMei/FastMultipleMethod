@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/jerrymei/Academics/18.330 Numerical Analysis/Final Project/main.cpp
-iostream
--
+/Users/jerrymei/Academics/Fall2017/18.330IntroductionToNumericalAnalysis/FastMultipleMethod/FFM.h
 cmath
+-
+algorithm
+-
+
+/Users/jerrymei/Academics/Fall2017/18.330IntroductionToNumericalAnalysis/FastMultipleMethod/main.cpp
+iostream
 -
 random
 -
+FFM.h
+/Users/jerrymei/Academics/Fall2017/18.330IntroductionToNumericalAnalysis/FastMultipleMethod/FFM.h
 
