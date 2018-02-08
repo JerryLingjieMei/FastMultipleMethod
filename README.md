@@ -4,7 +4,7 @@
 
 ## File Descriptions
 
-###FMM.h
+### FMM.h
 
 [FMM.h](FMM.h) is the header containing necessary classes for implementing FFM in 1D. The ```FMM1d``` gives a class to intialize a n-body system with an array of weights in differnt places, as well as a parameter ```h``` and maximal error ```eps```. 
 
